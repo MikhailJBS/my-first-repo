@@ -4,4 +4,4 @@ NPM     : 2206082764
 
 Kelas   : PBP F
 
-Hobi: turuuuu
+Hobi: turuuuu dek
